@@ -1,3 +1,6 @@
-#follow instructions
+Create two repos
 
-This is global Repo
+- 1 personal repo
+- 1 global repo 
+
+The second is shared with your classmates, created by the instructor
