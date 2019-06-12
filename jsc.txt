@@ -1,0 +1,31 @@
+-Hobbies
+    1.- Investigar mis cuestionamientos (Aprender cosas nuevas).
+    2.- Crear tecnología.
+    3.- Ver cómo es mi rendimineto y hacer cosas diferentes.
+    4.- Hacer deporte.
+    5.- Leer cosas no relacionadas con la programación.
+
+-Materias
+    1.- Programación (OOP, Web, Mobile).
+    2.- Redes de datos.
+    3.- Matemáticas.
+    4.- Física.
+
+-Estudiante
+    1.- No quedarse con lo que enseña la escuela y buscar más allá.
+    2.- Ser autodidacta.
+    3.- Tener pasión por lo que hace.
+    4.- Tener proyectos personales.
+
+-Valores
+    1.- Respeto.
+    2.- Honestidad.
+    3.- Tolerancia.
+    4.- Responsabilidad.
+
+HONESTIDAD
+Para mí, la honestidad es aquella característica de un individuo el cual muestra, dice y piensa de manera clara y concisa, 
+no dice mentiras ni cosas que el/ella realmente no cree/piensa.
+Para mí, es una característica clave, ya que no sólo es lo que se dice a otras personas, 
+pero también es indispensable para que no nos engañemos a nosotros mismos, 
+ya que si ni con nosotros mismos somos honestos es muy posible que no crezacamos como personas.
