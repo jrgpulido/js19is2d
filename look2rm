@@ -1,0 +1,1307 @@
+*   commit 1d0ead6ab7b7a9d3f40f1a5bea6d3e16c5b5fb78 (HEAD -> master, origin/master)
+|\  Merge: 0998eeb 0f02b16
+| | Author: JRG Pulido <jrgpulido@gmail.com>
+| | Date:   Tue Jun 11 18:11:12 2019 -0500
+| | 
+| |     Merge pull request #68 from Kqaren30/master
+| |     
+| |     Autoridad
+| | 
+| * commit 0f02b16fe23c1b9ec300b1f9459d841d55f5c531
+| | Author: Karen Guadalupe Robles Salazar <48693148+Kqaren30@users.noreply.github.com>
+| | Date:   Mon Jun 10 19:41:03 2019 -0500
+| | 
+| |     Delete .DS_Store
+| | 
+| * commit 75033971ceaeb1e2f4f520f61247f3bcf5a97947
+| | Author: Karen Guadalupe Robles Salazar Dcomlab <kqaren30@gmail.com>
+| | Date:   Mon Jun 10 19:40:31 2019 -0500
+| | 
+| |     Autoridad
+| | 
+| * commit 316212ac6f60350c39de700f641a5b099c05f3d9
+| | Author: Karen Guadalupe Robles Salazar <48693148+Kqaren30@users.noreply.github.com>
+| | Date:   Mon Jun 10 19:29:27 2019 -0500
+| | 
+| |     Delete .DS_Store
+| | 
+| * commit b593aa30590af1009d41881429543fd67b09da87
+| | Author: Karen Guadalupe Robles Salazar Dcomlab <kqaren30@gmail.com>
+| | Date:   Mon Jun 10 19:27:41 2019 -0500
+| | 
+| |     Autoridad
+| |   
+* |   commit 0998eeb859a4e684a79cd3c79a274a4b59212a7e
+|\ \  Merge: 17d7032 d4847b6
+| | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | Date:   Tue Jun 11 18:10:59 2019 -0500
+| | | 
+| | |     Merge pull request #69 from yeraniarm/master
+| | |     
+| | |     Imagen ejercicio 2
+| | | 
+| * | commit d4847b653cb19e9ee7b971aa7a536a6710dd142a
+| | | Author: Yerania Lizbeth Rivera Maria on Dcomplab <yerania.riveram@gmail.com>
+| | | Date:   Mon Jun 10 19:41:22 2019 -0500
+| | | 
+| | |     Imagen ejercicio 2
+| | |   
+* | |   commit 17d703244169daf2c8bc87b09a48a37ce9d4d51d
+|\ \ \  Merge: 4bfbc52 f007431
+| | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | Date:   Tue Jun 11 18:10:46 2019 -0500
+| | | | 
+| | | |     Merge pull request #71 from JonathanSolisCeballos/master
+| | | |     
+| | | |     finished
+| | | |   
+| * | |   commit f0074311a8266c55c74f38f9009c43ee56ac044b
+| |\ \ \  Merge: 2f951bb 095cceb
+| | | | | Author: JonathanSolisCeballos On DCompLab <JonathanSolisc_22@hotmail.com>
+| | | | | Date:   Mon Jun 10 20:02:50 2019 -0500
+| | | | | 
+| | | | |     Merge branch 'master' of https://github.com/JonathanSolisCeballos/js19is2d
+| | | | | 
+| * | | | commit 2f951bb569b635bf54fecfccf57bb445d8b31bc5
+| | | | | Author: JonathanSolisCeballos On DCompLab <JonathanSolisc_22@hotmail.com>
+| | | | | Date:   Mon Jun 10 20:02:24 2019 -0500
+| | | | | 
+| | | | |     Agregago y modificado archivos de texto e imagenes
+| | | | |   
+* | | | |   commit 4bfbc5248f469fcbbe79db644abf024f907009d3
+|\ \ \ \ \  Merge: 0c1fbe9 3e08985
+| | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | Date:   Tue Jun 11 18:10:35 2019 -0500
+| | | | | | 
+| | | | | |     Merge pull request #72 from CthulhuDeveloper/master
+| | | | | |     
+| | | | | |     Updating
+| | | | | | 
+| * | | | | commit 3e08985377437118d75b02ea0662d57767a14f34
+| | | | | | Author: CthulhuDeveloper <37712610+CthulhuDeveloper@users.noreply.github.com>
+| | | | | | Date:   Mon Jun 10 19:42:07 2019 -0500
+| | | | | | 
+| | | | | |     Add files via upload
+| | | | | | 
+| * | | | | commit e14842330e1a0b95ed2700745e649173b9390771
+| | | | | | Author: CthulhuDeveloper <37712610+CthulhuDeveloper@users.noreply.github.com>
+| | | | | | Date:   Mon Jun 10 19:41:25 2019 -0500
+| | | | | | 
+| | | | | |     Delete rsje2.jpg
+| | | | | | 
+| * | | | | commit 554ad6e4b5ab02f44301ea20fe974b04174eaf60
+| | | | | | Author: CthulhuDeveloper <37712610+CthulhuDeveloper@users.noreply.github.com>
+| | | | | | Date:   Mon Jun 10 19:41:16 2019 -0500
+| | | | | | 
+| | | | | |     Delete rsje1.jpg
+| | | | | | 
+| * | | | | commit 29bc244a483b4db69e9f4768ba78eb92e68ed557
+| | | | | | Author: CthulhuDeveloper <37712610+CthulhuDeveloper@users.noreply.github.com>
+| | | | | | Date:   Mon Jun 10 19:41:05 2019 -0500
+| | | | | | 
+| | | | | |     Delete rsje-autoridad1.jpg
+| | | | | |   
+| * | | | |   commit 5101f0f9f256c0497e12e5cd7b29facff17b3af1
+| |\ \ \ \ \  Merge: 6ad8197 1f2e514
+| | | | | | | Author: CthulhuDeveloper <37712610+CthulhuDeveloper@users.noreply.github.com>
+| | | | | | | Date:   Mon Jun 10 19:22:10 2019 -0500
+| | | | | | | 
+| | | | | | |     Merge pull request #1 from jrgpulido/master
+| | | | | | |     
+| | | | | | |     Update
+| | | | | | |   
+* | | | | | |   commit 0c1fbe97d62b92827225e6e3c20b916a07e340f9
+|\ \ \ \ \ \ \  Merge: 76f2190 58c2bf8
+| | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | Date:   Tue Jun 11 18:10:21 2019 -0500
+| | | | | | | | 
+| | | | | | | |     Merge pull request #73 from MarianaGFT/master
+| | | | | | | |     
+| | | | | | | |     Add files via upload
+| | | | | | | | 
+| * | | | | | | commit 58c2bf8f7e848feb66f4856fba9a964615fdcd7b
+| | | | | | | | Author: MarianaGFT <48689127+MarianaGFT@users.noreply.github.com>
+| | | | | | | | Date:   Tue Jun 11 16:54:25 2019 -0500
+| | | | | | | | 
+| | | | | | | |     Add files via upload
+| | | | | | | |   
+* | | | | | | |   commit 76f2190a679a152ecc6c35d4550731bdab61ddaa
+|\ \ \ \ \ \ \ \  Merge: 3f57708 095cceb
+| | |_|_|_|/ / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | |   Date:   Mon Jun 10 19:39:22 2019 -0500
+| | | | | | | |   
+| | | | | | | |       Merge pull request #63 from JonathanSolisCeballos/master
+| | | | | | | |       
+| | | | | | | |       Merge pull request #2 from jrgpulido/master
+| | | | | | | |   
+| * | | | | | |   commit 095cceb39d6cdcaf703401a5b1e1395500d4119e
+| |\ \ \ \ \ \ \  Merge: 8ff0c7f 645b212
+| | |_|_|_|/ / /  Author: JonathanSC <33141210+JonathanSolisCeballos@users.noreply.github.com>
+| |/| | | | | |   Date:   Mon Jun 10 19:26:03 2019 -0500
+| | | | | | | |   
+| | | | | | | |       Merge pull request #2 from jrgpulido/master
+| | | | | | | |       
+| | | | | | | |       Pull de global
+| | | | | | | |   
+* | | | | | | |   commit 3f577080e1f3aace401353b0391e537678e76308
+|\ \ \ \ \ \ \ \  Merge: f8241a5 b061288
+| | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | Date:   Mon Jun 10 19:39:06 2019 -0500
+| | | | | | | | | 
+| | | | | | | | |     Merge pull request #66 from lsalas1519/master
+| | | | | | | | |     
+| | | | | | | | |     Merge pull request #2 from jrgpulido/master
+| | | | | | | | |   
+| * | | | | | | |   commit b061288689363b7ed8c202c1393f0f3824f07741
+| |\ \ \ \ \ \ \ \  Merge: 52bdccd 7d3500c
+| | | | | | | | | | Author: lsalas1519 <50338204+lsalas1519@users.noreply.github.com>
+| | | | | | | | | | Date:   Mon Jun 10 19:26:53 2019 -0500
+| | | | | | | | | | 
+| | | | | | | | | |     Merge pull request #2 from jrgpulido/master
+| | | | | | | | | |     
+| | | | | | | | | |     update
+| | | | | | | | | |   
+* | | | | | | | | |   commit f8241a5a5d61aadc32ebf33433b74510348ef324
+|\ \ \ \ \ \ \ \ \ \  Merge: 74ca195 1934486
+| | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | Date:   Mon Jun 10 19:38:48 2019 -0500
+| | | | | | | | | | | 
+| | | | | | | | | | |     Merge pull request #67 from joseLuisMtzE/master
+| | | | | | | | | | |     
+| | | | | | | | | | |      Rename jpg exercise 2
+| | | | | | | | | | | 
+| * | | | | | | | | | commit 19344861e61e04636655a3285c2e623c256211c2
+| | | | | | | | | | | Author: joseLuisMtzE <50123034+joseLuisMtzE@users.noreply.github.com>
+| | | | | | | | | | | Date:   Mon Jun 10 19:37:15 2019 -0500
+| | | | | | | | | | | 
+| | | | | | | | | | |     Rename jpg exercise 2
+| | | | | | | | | | | 
+| * | | | | | | | | | commit 6a94502e0106acc006a3caaa63ebb4860cf85c63
+| | | | | | | | | | | Author: joseLuisMtzE <50123034+joseLuisMtzE@users.noreply.github.com>
+| | | | | | | | | | | Date:   Mon Jun 10 19:36:16 2019 -0500
+| | | | | | | | | | | 
+| | | | | | | | | | |     Delete mejl1.jpeg
+| | | | | | | | | | |   
+* | | | | | | | | | |   commit 74ca19531f57d25a1f4bc892635c786479d669dc
+|\ \ \ \ \ \ \ \ \ \ \  Merge: 3e3fb28 2d2d345
+| | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | Date:   Mon Jun 10 19:38:23 2019 -0500
+| | | | | | | | | | | | 
+| | | | | | | | | | | |     Merge pull request #65 from Cesar-Javier-Ramirez-Manzo/master
+| | | | | | | | | | | |     
+| | | | | | | | | | | |     Correccion
+| | | | | | | | | | | | 
+| * | | | | | | | | | | commit 2d2d34581fa198c86241d15bd60a3e205a9b444e
+|/ / / / / / / / / / /  Author: Cesar-Javier-Ramirez-Manzo <50338995+Cesar-Javier-Ramirez-Manzo@users.noreply.github.com>
+| | | | | | | | | | |   Date:   Mon Jun 10 19:36:20 2019 -0500
+| | | | | | | | | | |   
+| | | | | | | | | | |       Add files via upload
+| | | | | | | | | | |   
+* | | | | | | | | | |   commit 3e3fb28cf49c158490d574e7c4bc7f32f550825e
+|\ \ \ \ \ \ \ \ \ \ \  Merge: fac0974 d2fbca9
+| | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | Date:   Mon Jun 10 19:33:03 2019 -0500
+| | | | | | | | | | | | 
+| | | | | | | | | | | |     Merge pull request #62 from TDBigMike47/master
+| | | | | | | | | | | |     
+| | | | | | | | | | | |     Merge pull request #2 from jrgpulido/master
+| | | | | | | | | | | |   
+| * | | | | | | | | | |   commit d2fbca9d09b16e6a3b5bb4d1bbd3a1750af07f61
+| |\ \ \ \ \ \ \ \ \ \ \  Merge: 7fe5520 7d3500c
+| | | |_|/ / / / / / / /  Author: TDBigMike47 <43075910+TDBigMike47@users.noreply.github.com>
+| | |/| | | | | | | | |   Date:   Mon Jun 10 19:26:21 2019 -0500
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Merge pull request #2 from jrgpulido/master
+| | | | | | | | | | | |       
+| | | | | | | | | | | |       pull
+| | | | | | | | | | | |   
+* | | | | | | | | | | |   commit fac0974da78b677139e2be74054f6d9f450c09fd
+|\ \ \ \ \ \ \ \ \ \ \ \  Merge: 206ff84 56e78c4
+| | | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | | Date:   Mon Jun 10 19:32:48 2019 -0500
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     Merge pull request #59 from DiegoVillasenorVilla/master
+| | | | | | | | | | | | |     
+| | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | 
+| * | | | | | | | | | | | commit 56e78c4e31a16470d67cc51ec58c7179cb93d347
+| | | | | | | | | | | | | Author: DiegoVillasenorVilla <50335824+DiegoVillasenorVilla@users.noreply.github.com>
+| | | | | | | | | | | | | Date:   Mon Jun 10 19:28:49 2019 -0500
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | |   
+* | | | | | | | | | | | |   commit 206ff846575eadbba69a97be0a5a390a40afa600
+|\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 7d3500c ae6298f
+| |_|_|/ / / / / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+|/| | | | | | | | | | / /   Date:   Mon Jun 10 19:32:28 2019 -0500
+| | |_|_|_|_|_|_|_|_|/ /    
+| |/| | | | | | | | | |         Merge pull request #60 from yeraniarm/master
+| | | | | | | | | | | |         
+| | | | | | | | | | | |         Rename A, B
+| | | | | | | | | | | | 
+| * | | | | | | | | | | commit ae6298f8ff825de33251d5323f847e29c8e5bf75
+| | | | | | | | | | | | Author: Yerania Lizbeth Rivera Maria on Dcomplab <yerania.riveram@gmail.com>
+| | | | | | | | | | | | Date:   Mon Jun 10 19:30:12 2019 -0500
+| | | | | | | | | | | | 
+| | | | | | | | | | | |     Rename A, B
+| | | | | | | | | | | |   
+* | | | | | | | | | | |   commit 7d3500c7c61e6df6ff97707a0ab91e40f2030c92
+|\ \ \ \ \ \ \ \ \ \ \ \  Merge: 645b212 a863eaa
+| |_|_|_|_|_|_|/ / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+|/| | | | | | | | | | |   Date:   Mon Jun 10 19:26:07 2019 -0500
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Merge pull request #51 from yeraniarm/patch-3
+| | | | | | | | | | | |       
+| | | | | | | | | | | |       Delete RMYL.txt
+| | | | | | | | | | | | 
+| * | | | | | | | | | | commit a863eaa18eddacafcf4803e52aa9393360869ece
+| | |_|_|_|_|_|_|_|/ /  Author: Yerania Rivera <yerania.riveram@gmail.com>
+| |/| | | | | | | | |   Date:   Mon Jun 10 19:18:03 2019 -0500
+| | | | | | | | | | |   
+| | | | | | | | | | |       Delete RMYL.txt
+| | | | | | | | | | |   
+* | | | | | | | | | |   commit 645b212a85ca7573995415838b9d3cbfffd55fe2
+|\ \ \ \ \ \ \ \ \ \ \  Merge: 5f75638 7fe5520
+| | |_|_|/ / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | |   Date:   Mon Jun 10 19:25:47 2019 -0500
+| | | | | | | | | | |   
+| | | | | | | | | | |       Merge pull request #58 from TDBigMike47/master
+| | | | | | | | | | |       
+| | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | 
+| * | | | | | | | | | commit 7fe55205fd33cda3a5c70129d328e71977bd41a1
+| | | | | | | | | | | Author: TDBigMike47 <43075910+TDBigMike47@users.noreply.github.com>
+| | | | | | | | | | | Date:   Mon Jun 10 19:20:27 2019 -0500
+| | | | | | | | | | | 
+| | | | | | | | | | |     Add files via upload
+| | | | | | | | | | |   
+* | | | | | | | | | |   commit 5f75638e89dad000c278d89e07b2a109b3a6275f
+|\ \ \ \ \ \ \ \ \ \ \  Merge: 2070685 8ff0c7f
+| | |_|_|_|_|_|/ / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | |   Date:   Mon Jun 10 19:25:11 2019 -0500
+| | | | | | | | | | |   
+| | | | | | | | | | |       Merge pull request #52 from JonathanSolisCeballos/master
+| | | | | | | | | | |       
+| | | | | | | | | | |       Agregado imágenes de Autoridad
+| | | | | | | | | | |   
+| * | | | | | | | | |   commit 8ff0c7f6cb579cb63e13c9bd6d5e623cc39ffc25
+| |\ \ \ \ \ \ \ \ \ \  Merge: b1c5960 57f5803
+| | | | | | | | | | | | Author: JonathanSolisCeballos On DCompLab <JonathanSolisc_22@hotmail.com>
+| | | | | | | | | | | | Date:   Mon Jun 10 19:18:19 2019 -0500
+| | | | | | | | | | | | 
+| | | | | | | | | | | |     Merge branch 'master' of https://github.com/JonathanSolisCeballos/js19is2d
+| | | | | | | | | | | |   
+| | * | | | | | | | | |   commit 57f58034e9e4135011a7cdc798b7af951ff86032
+| | |\ \ \ \ \ \ \ \ \ \  Merge: a09a22f 8621933
+| | | | | | | | | | | | | Author: JonathanSC <33141210+JonathanSolisCeballos@users.noreply.github.com>
+| | | | | | | | | | | | | Date:   Mon Jun 10 19:05:38 2019 -0500
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     Merge pull request #1 from jrgpulido/master
+| | | | | | | | | | | | |     
+| | | | | | | | | | | | |     pull of global
+| | | | | | | | | | | | |   
+| * | | | | | | | | | | |   commit b1c5960a676d9c80274813b2a9c7e855086eb7e9
+| |\ \ \ \ \ \ \ \ \ \ \ \  Merge: 025b052 145ebbb
+| | | | | | | | | | | | | | Author: JonathanSolisCeballos On DCompLab <JonathanSolisc_22@hotmail.com>
+| | | | | | | | | | | | | | Date:   Mon Jun 10 19:06:57 2019 -0500
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Merge branch 'master' of https://github.com/jrgpulido/js19is2d
+| | | | | | | | | | | | | |   
+| * | | | | | | | | | | | |   commit 025b05299d54935502e5b47b1b4b7d38263b4066
+| |\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: a09a22f 6ad8197
+| | |_|/ / / / / / / / / / /  Author: JonathanSolisCeballos On DCompLab <JonathanSolisc_22@hotmail.com>
+| |/| | | | | | | | | | / /   Date:   Mon Jun 10 18:49:22 2019 -0500
+| | | |_|_|_|_|_|_|_|_|/ /    
+| | |/| | | | | | | | | |         Merge branch 'master' of https://github.com/jrgpulido/js19is2d
+| | | | | | | | | | | | |   
+* | | | | | | | | | | | |   commit 2070685d24ea4e42f1c13e80f9e7183468caa3f5
+|\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 8c62e22 3bbe5c9
+| | | | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | | | Date:   Mon Jun 10 19:24:57 2019 -0500
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Merge pull request #53 from JulianRodriguez29/master
+| | | | | | | | | | | | | |     
+| | | | | | | | | | | | | |     one
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit 3bbe5c9dcd6978ebb77b9e36868c55ccaa233b1b
+| | | | | | | | | | | | | | Author: JulianRodriguez29 <50123134+JulianRodriguez29@users.noreply.github.com>
+| | | | | | | | | | | | | | Date:   Mon Jun 10 19:14:40 2019 -0500
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Delete JJRR.txt
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit 4ffd22a5b7788ae84c81ff0ddf51cd42bc1d1e90
+| | | | | | | | | | | | | | Author: JulianRodriguez29 <50123134+JulianRodriguez29@users.noreply.github.com>
+| | | | | | | | | | | | | | Date:   Mon Jun 10 19:14:03 2019 -0500
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | |   
+* | | | | | | | | | | | | |   commit 8c62e2280c43a6b5676b56f479a4a4681ba6be54
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 48c1fca a47bc95
+| | |_|_|_|_|_|_|_|_|_|_|_|/  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | |   Date:   Mon Jun 10 19:24:37 2019 -0500
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge pull request #54 from Kqaren30/master
+| | | | | | | | | | | | | |       
+| | | | | | | | | | | | | |       Rename
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit a47bc951da1fffde7b6f5a9e8b585e272c00d826
+| | | | | | | | | | | | | | Author: Karen Guadalupe Robles Salazar Dcomlab <kqaren30@gmail.com>
+| | | | | | | | | | | | | | Date:   Mon Jun 10 19:19:47 2019 -0500
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Rename
+| | | | | | | | | | | | | |   
+* | | | | | | | | | | | | |   commit 48c1fcad2465bf5bd51e1ab0de6562144f8e3228
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 55a2597 52bdccd
+| | |_|_|_|_|_|_|_|_|_|_|/ /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | |   Date:   Mon Jun 10 19:24:26 2019 -0500
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge pull request #55 from lsalas1519/master
+| | | | | | | | | | | | | |       
+| | | | | | | | | | | | | |       new pic
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit 52bdccd7ebaed3889e4838d82e6f08f7a0743eb9
+| | | | | | | | | | | | | | Author: lsalas1519 <50338204+lsalas1519@users.noreply.github.com>
+| | | | | | | | | | | | | | Date:   Mon Jun 10 19:20:56 2019 -0500
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     new image
+| | | | | | | | | | | | | |   
+| * | | | | | | | | | | | |   commit 7239cae656c9e7fa2ad3c63aaafe7f475f25947a
+| |\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 1fbc8d4 145ebbb
+| | | |_|_|_|/ / / / / / / /  Author: lsalas1519 <50338204+lsalas1519@users.noreply.github.com>
+| | |/| | | | | | | | | | |   Date:   Mon Jun 10 19:08:51 2019 -0500
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge pull request #1 from jrgpulido/master
+| | | | | | | | | | | | | |       
+| | | | | | | | | | | | | |       pull
+| | | | | | | | | | | | | |   
+* | | | | | | | | | | | | |   commit 55a2597a782e54042fd850c5dcc41ff381240b6e
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: fd2c0ee f5a1091
+| | |_|_|_|_|_|_|_|_|_|_|/ /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | |   Date:   Mon Jun 10 19:24:13 2019 -0500
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge pull request #57 from joseLuisMtzE/master
+| | | | | | | | | | | | | |       
+| | | | | | | | | | | | | |       Rename files exercise 1
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit f5a109173cab2f7c24cfa9a69bf65c071da9b252
+| | | | | | | | | | | | | | Author: joseLuisMtzE <50123034+joseLuisMtzE@users.noreply.github.com>
+| | | | | | | | | | | | | | Date:   Mon Jun 10 19:23:33 2019 -0500
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Rename files exercise 1
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit 2ba74368dc03523acb023ab436cabd555892df1d
+| | | | | | | | | | | | | | Author: joseLuisMtzE <50123034+joseLuisMtzE@users.noreply.github.com>
+| | | | | | | | | | | | | | Date:   Mon Jun 10 19:22:22 2019 -0500
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Delete MEJL-2.jpg
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit 6490d23b1f870aace6aa817dce8bdc451e42512c
+| | | | | | | | | | | | | | Author: joseLuisMtzE <50123034+joseLuisMtzE@users.noreply.github.com>
+| | | | | | | | | | | | | | Date:   Mon Jun 10 19:22:13 2019 -0500
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Delete MEJL-1.jpg
+| | | | | | | | | | | | | |   
+* | | | | | | | | | | | | |   commit fd2c0ee275f33a8b7c69208022dbab56a7c837dc
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 1f2e514 c657dc6
+| |_|_|_|_|_|_|_|_|_|/ / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+|/| | | | | | | | | | | | |   Date:   Mon Jun 10 19:24:01 2019 -0500
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge pull request #56 from eduardo192/master
+| | | | | | | | | | | | | |       
+| | | | | | | | | | | | | |       Merge pull request #1 from jrgpulido/master
+| | | | | | | | | | | | | |   
+| * | | | | | | | | | | | |   commit c657dc6e3dbd5242ee94d8999ce88d202954a50d
+| |\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 145ebbb e018b9c
+| | |_|_|/ / / / / / / / / /  Author: eduardo192 <50344309+eduardo192@users.noreply.github.com>
+| |/| | | | | | | | | | | |   Date:   Mon Jun 10 19:15:08 2019 -0500
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge pull request #1 from jrgpulido/master
+| | | | | | | | | | | | | |       
+| | | | | | | | | | | | | |       ..
+| | | | | | | | | | | | | |   
+* | | | | | | | | | | | | |   commit 1f2e514f2f50c42ca19728d084a74085f5307820
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 7c26cea 0f01e58
+| | |_|_|_|_|_|_|_|_|/ / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | |   Date:   Mon Jun 10 19:18:00 2019 -0500
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge pull request #45 from TDBigMike47/master
+| | | | | | | | | | | | | |       
+| | | | | | | | | | | | | |       Merge pull request #1 from jrgpulido/master
+| | | | | | | | | | | | | |   
+| * | | | | | | | | | | | |   commit 0f01e5862d1337917291138830e7e5141209395e
+| |\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 29622b2 e018b9c
+| | | |/ / / / / / / / / / /  Author: TDBigMike47 <43075910+TDBigMike47@users.noreply.github.com>
+| | |/| | | | | | | | | | |   Date:   Mon Jun 10 19:12:38 2019 -0500
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge pull request #1 from jrgpulido/master
+| | | | | | | | | | | | | |       
+| | | | | | | | | | | | | |       pull
+| | | | | | | | | | | | | |   
+* | | | | | | | | | | | | |   commit 7c26cea4524ca78a509f14d70ae2bf288f62181e
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 2b07ebd 1f16a64
+| | |_|_|/ / / / / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | |   Date:   Mon Jun 10 19:17:44 2019 -0500
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge pull request #46 from joseLuisMtzE/master
+| | | | | | | | | | | | | |       
+| | | | | | | | | | | | | |       Rename MEJL.txt to mejl.txt
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit 1f16a6461f82f71f6bc8e01cb4018baf588de6ae
+| | | | | | | | | | | | | | Author: joseLuisMtzE <50123034+joseLuisMtzE@users.noreply.github.com>
+| | | | | | | | | | | | | | Date:   Mon Jun 10 19:12:20 2019 -0500
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Rename MEJL.txt to mejl.txt
+| | | | | | | | | | | | | |   
+* | | | | | | | | | | | | |   commit 2b07ebd9fcc65063d01aecd74ed858eae3ceb679
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 8b292af 5bbb5dc
+| | | | | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 19:17:04 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Merge pull request #50 from ErickLlerenas/master
+| | | | | | | | | | | | | | |     
+| | | | | | | | | | | | | | |     enlc autoridad
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit 5bbb5dc2e395742ee0066bfe1f6a45918f881728
+| | | | | | | | | | | | | | | Author: Erick Llerenas <39783945+ErickLlerenas@users.noreply.github.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 19:16:29 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     enlc autoridad
+| | | | | | | | | | | | | | |     
+| | | | | | | | | | | | | | |     Nuevo archivo acerca de la autoridad
+| | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | |   commit 8b292af793ee42380d5643062366f2b1c5209622
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 178eb4d 29c8618
+| | |_|_|_|_|_|_|_|_|_|_|/ / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | |   Date:   Mon Jun 10 19:16:36 2019 -0500
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Merge pull request #48 from yeraniarm/master
+| | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | |       Cambio de nombre
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit 29c8618b37d37a3edcbff9492972e2ae09172322
+| | | | | | | | | | | | | | | Author: Yerania Lizbeth Rivera Maria on Dcomplab <yerania.riveram@gmail.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 19:13:24 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     ej2
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit 890d62d5742df2f3f9a1808578de9ebf5b742247
+| | | | | | | | | | | | | | | Author: Yerania Lizbeth Rivera Maria on Dcomplab <yerania.riveram@gmail.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 19:06:34 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     rename
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit 8402bd762ec39d7c17a202e3ca4267d4946d4d5e
+| | | | | | | | | | | | | | | Author: Yerania Lizbeth Rivera Maria on Dcomplab <yerania.riveram@gmail.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 18:57:26 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Cambiado el nombre de .jpg
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit 6a00feaf78d6810a0cefc67cfa97bfb36ec13fd1
+| | | | | | | | | | | | | | | Author: Yerania Lizbeth Rivera Maria on Dcomplab <yerania.riveram@gmail.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 18:54:28 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Agregado borrar.txt
+| | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | |   commit 178eb4d061b8bee3d45747961f4715e8493a725e
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: e018b9c 554fa40
+| |_|_|_|_|/ / / / / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+|/| | | | | | | | | | | | | |   Date:   Mon Jun 10 19:16:19 2019 -0500
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Merge pull request #49 from juanpunch123/master
+| | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | |       New files
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit 554fa4062e6e0f032e1a58aee27de4ded119f7c6
+| | | | | | | | | | | | | | | Author: juanpunch123 <43076513+juanpunch123@users.noreply.github.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 19:14:28 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit 9f7e6c54ec7b86a63b8e0c4c75aeadbf7699323f
+| | | | | | | | | | | | | | | Author: juanpunch123 <43076513+juanpunch123@users.noreply.github.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 19:12:38 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Rename CAJP.txt to cajp.txt
+| | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | |   commit e018b9c52ca1b7a4bf74f69c37f673cad9c73bc2
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: daae234 6a84d41
+| | | | | | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | | | | | Date:   Mon Jun 10 19:11:51 2019 -0500
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     Merge pull request #42 from jpalencia77/master
+| | | | | | | | | | | | | | | |     
+| | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | commit 6a84d4111842c04fcc21e883d03ae37dd055b24c
+| | | | | | | | | | | | | | | | Author: jpalencia77 <50339058+jpalencia77@users.noreply.github.com>
+| | | | | | | | | | | | | | | | Date:   Mon Jun 10 19:06:53 2019 -0500
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | |   commit daae23473597601c89f975d5cbfed7dd0b95147a
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 01c3848 0e63e0c
+| | |_|_|_|_|_|_|_|_|_|_|_|_|/ /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | | |   Date:   Mon Jun 10 19:11:36 2019 -0500
+| | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | |       Merge pull request #43 from DiegoVillasenorVilla/master
+| | | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | commit 0e63e0c439825febb08cebb801d6f77b125caba2
+| | | | | | | | | | | | | | | | Author: DiegoVillasenorVilla <50335824+DiegoVillasenorVilla@users.noreply.github.com>
+| | | | | | | | | | | | | | | | Date:   Mon Jun 10 18:42:34 2019 -0500
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | |   commit 01c3848f28bf8900f3677630c57ba2573f24060a
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 145ebbb a39647c
+| | |_|_|_|_|/ / / / / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | / / / / / / / /   Date:   Mon Jun 10 19:11:11 2019 -0500
+| |_|_|_|_|_|_|/ / / / / / / /    
+|/| | | | | | | | | | | | | |         Merge pull request #44 from joseLuisMtzE/master
+| | | | | | | | | | | | | | |         
+| | | | | | | | | | | | | | |         add files from exercise 2
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit a39647c09a46384738f6ab36b6abd16d5cbc482a
+| | | | | | | | | | | | | | | Author: joseLuisMtzE <50123034+joseLuisMtzE@users.noreply.github.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 19:10:42 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Update mejl1.txt
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit 746aed6a24959053e95153e72ff9a9859947402c
+| | |_|_|_|_|_|_|_|_|_|/ / /  Author: joseLuisMtzE <50123034+joseLuisMtzE@users.noreply.github.com>
+| |/| | | | | | | | | | | |   Date:   Mon Jun 10 19:08:59 2019 -0500
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | |   
+* | | | | | | | | | | | | |   commit 145ebbb07d364a00137e6e32615df0026a52c1de
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 8887024 ced8d9e
+| | | | | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 19:06:48 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Merge pull request #33 from CthulhuDeveloper/master
+| | | | | | | | | | | | | | |     
+| | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit ced8d9e19e49f6109858e082ae7d024629533b42
+| | | | | | | | | | | | | | | Author: CthulhuDeveloper <37712610+CthulhuDeveloper@users.noreply.github.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 18:39:38 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | |   commit 888702456d5df0859fd35100a2ef9ae5a2d030a1
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: d125359 1fbc8d4
+| | |_|_|_|_|_|_|_|/ / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | |   Date:   Mon Jun 10 19:06:22 2019 -0500
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Merge pull request #37 from lsalas1519/master
+| | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | |       new files by salas
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit 1fbc8d48f896c51012b3179b2c9a76b1041dbad3
+| | | | | | | | | | | | | | | Author: lsalas1519 <50338204+lsalas1519@users.noreply.github.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 18:49:31 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     new files
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit 1a2824e025b4f88553a668f0c1283b89317925bb
+| | | | | | | | | | | | | | | Author: lsalas1519 <50338204+lsalas1519@users.noreply.github.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 18:48:43 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Delete SCLA.jpg
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit fd6a70e73eaca7d1a4428b70684945f674f58bfe
+| | | | | | | | | | | | | | | Author: lsalas1519 <50338204+lsalas1519@users.noreply.github.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 18:48:32 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Delete SCLA.docx
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit cc18ae325441c4f925fc7bb96634de2d31dbb46c
+| | | | | | | | | | | | | | | Author: lsalas1519 <50338204+lsalas1519@users.noreply.github.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 18:48:25 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Delete SCLA1.jpg
+| | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | |   commit d12535986b9703c5dbce74f312f032685e79eab5
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 8621933 5491ab2
+| |_|_|_|_|_|_|_|_|_|_|_|_|/ /  Author: JRG Pulido <jrgpulido@gmail.com>
+|/| | | | | | | | | | | | | /   Date:   Mon Jun 10 19:06:10 2019 -0500
+| | |_|_|_|_|_|_|_|_|_|_|_|/    
+| |/| | | | | | | | | | | |         Merge pull request #41 from MarianaGFT/master
+| | | | | | | | | | | | | |         
+| | | | | | | | | | | | | |         Add files via upload
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit 5491ab2081974580a3bbad3eacb38ac08a6eee9a
+| | | | | | | | | | | | | | Author: MarianaGFT <48689127+MarianaGFT@users.noreply.github.com>
+| | | | | | | | | | | | | | Date:   Mon Jun 10 18:56:36 2019 -0500
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | |   
+* | | | | | | | | | | | | |   commit 8621933295163b6ce755a8408f8435c312d80099
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 38abc3b d146cd2
+| | | | | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 19:05:18 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Merge pull request #39 from JulianAlderete/master
+| | | | | | | | | | | | | | |     
+| | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit d146cd246793910476e741dae404826fd6fd963c
+| | | | | | | | | | | | | | | Author: JulianAlderete <50850628+JulianAlderete@users.noreply.github.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 19:01:02 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | |   commit 38abc3be56fa9206a116a91c4767f804be1d13f9
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: ad21a79 177cc83
+| | | | | | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | | | | | Date:   Mon Jun 10 19:05:06 2019 -0500
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     Merge pull request #40 from OmarRoBra/master
+| | | | | | | | | | | | | | | |     
+| | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | commit 177cc83e23237bd9a47c49e608561ff170ef2aef
+| | | | | | | | | | | | | | | | Author: OmarRoBra <50344283+OmarRoBra@users.noreply.github.com>
+| | | | | | | | | | | | | | | | Date:   Mon Jun 10 19:04:13 2019 -0500
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | |   commit ad21a79f03a1578e18af43fa5735a5056eb7b51d
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 6ad8197 a09a22f
+| |_|_|_|_|_|/ / / / / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+|/| | | | | | | | | | | | | | /   Date:   Mon Jun 10 19:04:16 2019 -0500
+| | |_|_|_|_|_|_|_|_|_|_|_|_|/    
+| |/| | | | | | | | | | | | |         Merge pull request #38 from JonathanSolisCeballos/master
+| | | | | | | | | | | | | | |         
+| | | | | | | | | | | | | | |         I did pull of global repo and sync with local
+| | | | | | | | | | | | | | |   
+| * | | | | | | | | | | | | |   commit a09a22fd569204e0e8af5e47f7d95e8577a64c48
+| |\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 9de95b7 03a9ef7
+| | | | | | | | | | | | | | | | Author: JonathanSolisCeballos On DCompLab <JonathanSolisc_22@hotmail.com>
+| | | | | | | | | | | | | | | | Date:   Mon Jun 10 18:48:07 2019 -0500
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     synced with global
+| | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | commit 9de95b7d2dad73633e1744eb25476c472a9a568e
+| | | | | | | | | | | | | | | | Author: JonathanSolisCeballos On DCompLab <JonathanSolisc_22@hotmail.com>
+| | | | | | | | | | | | | | | | Date:   Mon Jun 10 18:36:54 2019 -0500
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     Agregado el escrito de Autoridad jsc1.txt
+| | | | | | | | | | | | | | | | 
+* | | | | | | | | | | | | | | | commit 6ad819764f897e8be5b08dcf974ca7235a64d652
+| |/ / / / / / / / / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+|/| | | | | | | | | | | | | |   Date:   Mon Jun 10 18:48:03 2019 -0500
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Updating instructions++
+| | | | | | | | | | | | | | | 
+* | | | | | | | | | | | | | | commit 03a9ef7cf72e744ea53466ecd229791099e553c8
+| | | | | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 10 18:26:42 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Updating intructions
+| | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | |   commit 4beab03cc4b98f2b8035f63b2342fbfda628166c
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: fa35b54 b058b69
+| | |_|_|_|_|_|/ / / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | |   Date:   Mon Jun 3 19:41:06 2019 -0500
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Merge pull request #27 from DiegoVillasenorVilla/master
+| | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit b058b69a1c390756999d76c367a323cd51b94ea0
+| | | | | | | | | | | | | | | Author: DiegoVillasenorVilla <50335824+DiegoVillasenorVilla@users.noreply.github.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 3 19:22:39 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | |   commit fa35b541054943a6b6b7245fbe2e97909cb736e3
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: e01e218 6e49901
+| | |_|_|_|_|_|_|_|_|_|_|_|/ /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | |   Date:   Mon Jun 3 19:40:53 2019 -0500
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Merge pull request #29 from Kqaren30/master
+| | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit 6e49901b35d9b4571e098e738a0c1c00f5c408fe
+| | | | | | | | | | | | | | | Author: Karen Guadalupe Robles Salazar <48693148+Kqaren30@users.noreply.github.com>
+| | | | | | | | | | | | | | | Date:   Mon Jun 3 19:22:46 2019 -0500
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | |   commit e01e218f58b7a55b8f91d973ce5b214c25b020d7
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: d23ecce b2d0a65
+| | | | | | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:40:44 2019 -0500
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     Merge pull request #30 from Anisbeflo/master
+| | | | | | | | | | | | | | | |     
+| | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | commit b2d0a6566ff3cb25c482ba9814047fd51ef21ef4
+| | | | | | | | | | | | | | | | Author: Anisbeflo <50933273+Anisbeflo@users.noreply.github.com>
+| | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:26:03 2019 -0500
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | |   commit d23ecce7e114e1e50665c8a32bb87eeb1c7495da
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: b2c8f37 3a72ae6
+| | |_|_|_|_|/ / / / / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | | |   Date:   Mon Jun 3 19:40:34 2019 -0500
+| | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | |       Merge pull request #31 from JulianAlderete/master
+| | | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | commit 3a72ae67de6c612c7a35666bbb9b2be631b65c34
+| | | | | | | | | | | | | | | | Author: JulianAlderete <50850628+JulianAlderete@users.noreply.github.com>
+| | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:32:08 2019 -0500
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | |   commit b2c8f374ad33f8df2fd809d5dfe89d3178ab2ed5
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 5fc3755 a50c1c8
+| | | | | | | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:22:16 2019 -0500
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     Merge pull request #24 from Cesar-Javier-Ramirez-Manzo/master
+| | | | | | | | | | | | | | | | |     
+| | | | | | | | | | | | | | | | |     cambio
+| | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | commit a50c1c87a991b9692afab288ab3f3c4417f51086
+| | | | | | | | | | | | | | | | | Author: Cesar-Javier-Ramirez-Manzo <50338995+Cesar-Javier-Ramirez-Manzo@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:16:15 2019 -0500
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     Delete IMG_0628.JPG
+| | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | commit d0fd264d4bf27c144547424e187621650c215f3d
+| | | | | | | | | | | | | | | | | Author: Cesar-Javier-Ramirez-Manzo <50338995+Cesar-Javier-Ramirez-Manzo@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:16:06 2019 -0500
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     Delete IMG_0627.JPG
+| | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | commit 1f51b1772c2c123b94a86ad99a3710c1c55f5243
+| | | | | | | | | | | | | | | | | Author: Cesar-Javier-Ramirez-Manzo <50338995+Cesar-Javier-Ramirez-Manzo@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:14:23 2019 -0500
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | | |   commit 5fc3755015cb96b2b7bda1c304938a92695677f2
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 601af7b c3fc496
+| | | | | | | | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:22:07 2019 -0500
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     Merge pull request #25 from yeraniarm/patch-1
+| | | | | | | | | | | | | | | | | |     
+| | | | | | | | | | | | | | | | | |     Rename rmyl.txt to RMYL.txt
+| | | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | | commit c3fc496c0f37579cb9da0a08fa9281a34ddfa104
+| | | | | | | | | | | | | | | | | | Author: Yerania Rivera <yerania.riveram@gmail.com>
+| | | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:19:31 2019 -0500
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     Rename rmyl.txt to RMYL.txt
+| | | | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | | | |   commit 601af7bac1f8eccf65aa813e6896bb4ea98d02f5
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 008edda 2502d98
+| |/ / / / / / / / / / / / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+|/| | | | | | | | | | / / / / / / /   Date:   Mon Jun 3 19:21:58 2019 -0500
+| | |_|_|_|_|_|_|_|_|/ / / / / / /    
+| |/| | | | | | | | | | | | | | |         Merge pull request #26 from CthulhuDeveloper/master
+| | | | | | | | | | | | | | | | |         
+| | | | | | | | | | | | | | | | |         Imágenes corregidas
+| | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | commit 2502d985efa31bd3998a60a1530e8e775b8049d5
+| | | | | | | | | | | | | | | | | Author: CthulhuDeveloper <37712610+CthulhuDeveloper@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:19:34 2019 -0500
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | commit de5e7a76ab01d253cddf9dc109c9f5a8bd65e97d
+| | | | | | | | | | | | | | | | | Author: CthulhuDeveloper <37712610+CthulhuDeveloper@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:19:07 2019 -0500
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     Delete 2.jpg
+| | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | commit 4c1731fe7b5b32f85f97333ed4322ec3a76bf482
+| | | | | | | | | | | | | | | | | Author: CthulhuDeveloper <37712610+CthulhuDeveloper@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:19:00 2019 -0500
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     Delete 1.jpg
+| | | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | | |   commit 008edda61dab8e56658fc0176251cbef41d8202c
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 44b6662 9c262d9
+| | |_|_|_|_|_|_|_|_|_|_|_|/ / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | | | |   Date:   Mon Jun 3 19:18:16 2019 -0500
+| | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | |       Merge pull request #22 from yeraniarm/master
+| | | | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | commit 9c262d97fbe4d0f55de3da45c91b559267760eb0
+| | | | | | | | | | | | | | | | | Author: Yerania Rivera <yerania.riveram@gmail.com>
+| | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:17:08 2019 -0500
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | | |   commit 44b66625c70f77f9ff22e085189bfcf371e7bd3e
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: cd274ed 6ee276d
+| | |_|_|_|_|_|_|_|_|_|_|_|_|/ / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | | | |   Date:   Mon Jun 3 19:17:58 2019 -0500
+| | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | |       Merge pull request #23 from ErickLlerenas/master
+| | | | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | | | |       Ya borré las otras
+| | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | commit 6ee276d47e537ae80d94c09a71bded4f6f84b5ca
+| | | | | | | | | | | | | | | | | Author: Erick Llerenas <39783945+ErickLlerenas@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:17:24 2019 -0500
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     Delete foto2.jpeg
+| | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | commit 68b95c4d84252910c5cf30233190da2fb18a986b
+| | | | | | | | | | | | | | | | | Author: Erick Llerenas <39783945+ErickLlerenas@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:17:14 2019 -0500
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     Delete foto1.jpeg
+| | | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | | |   commit cd274edc4816a23421c4aae477aa5fd215bf0e8e
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 6abceaa 2d6f93a
+| |/ / / / / / / / / / / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | | | | | |   Date:   Mon Jun 3 19:16:27 2019 -0500
+| | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | |       Merge pull request #21 from ErickLlerenas/master
+| | | | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | | | |       Fotos ya bien
+| | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | commit 2d6f93a6ec7994b48039ec3651b23402cdf3f8ab
+| | | | | | | | | | | | | | | | | Author: Erick Llerenas <39783945+ErickLlerenas@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:14:39 2019 -0500
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     Fotos ya bien
+| | | | | | | | | | | | | | | | |     
+| | | | | | | | | | | | | | | | |     Ya subí las fotos bien con mis iniciales
+| | | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | | |   commit 6abceaadda802d21e3e6439d4d5209b8c098bf2c
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 0ad982f 17e6ba5
+| | | | | | | | | | | | | | | | | | Author: JRG Pulido <jrgpulido@gmail.com>
+| | | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:16:10 2019 -0500
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     Merge pull request #18 from joseLuisMtzE/master
+| | | | | | | | | | | | | | | | | |     
+| | | | | | | | | | | | | | | | | |     MEJL
+| | | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | | commit 17e6ba55728ae7c87e62db9057eeb31d7b8a6ffe
+| | | | | | | | | | | | | | | | | | Author: joseLuisMtzE <50123034+joseLuisMtzE@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:13:07 2019 -0500
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | | | |   commit 0ad982f1afd4e976865b400369f37898778e67c6
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 89e560c 29622b2
+| | |_|_|_|_|_|_|_|_|_|_|_|_|_|_|/ /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | | | | |   Date:   Mon Jun 3 19:15:58 2019 -0500
+| | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | |       Merge pull request #20 from TDBigMike47/master
+| | | | | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | | commit 29622b275358ddff40d731ef2f61720088a44005
+| | | | | | | | | | | | | | | | | | Author: TDBigMike47 <43075910+TDBigMike47@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | | Date:   Mon Jun 3 19:14:53 2019 -0500
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | | | |   commit 89e560c15afddd74e8bf18be04481120b916f8d0
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: bf773de 21216df
+| | |_|_|_|_|_|_|_|_|_|_|_|_|/ / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | | | | |   Date:   Mon Jun 3 19:15:34 2019 -0500
+| | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | |       Merge pull request #19 from lsalas1519/master
+| | | | | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | | | | |       Salas
+| | | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | | commit 21216df639ab8044ccbd7b3b7a3453d667b56158
+| | | | | | | | | | | | | | | | | | Author: lsalas1519 <50338204+lsalas1519@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | | Date:   Mon Jun 3 18:56:08 2019 -0500
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     Delete IMG_20190529_190444.jpg
+| | | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | | commit 49dd43a5a3f51b3daebe22e838aafd8d714e7c85
+| | | | | | | | | | | | | | | | | | Author: lsalas1519 <50338204+lsalas1519@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | | Date:   Mon Jun 3 18:55:59 2019 -0500
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     Delete IMG_20190529_190418.jpg
+| | | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | | commit c6fa7201cf86bc213c5ab601d5856b89d6f260b9
+| | | | | | | | | | | | | | | | | | Author: lsalas1519 <50338204+lsalas1519@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | | Date:   Mon Jun 3 18:54:47 2019 -0500
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | | commit 3c17e16bde44e62c1d2198cb2ac6ec911f6f8e1a
+| | | | | | | | | | | | | | | | | | Author: lsalas1519 <50338204+lsalas1519@users.noreply.github.com>
+| | | | | | | | | | | | | | | | | | Date:   Mon Jun 3 18:52:55 2019 -0500
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     Add files via upload
+| | | | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | | | |   commit bf773dedb1eb3664d82c3c35f3ff7cbf07c51157
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 311f4ef 70c85bb
+| | |_|_|_|_|_|_|_|_|_|/ / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | | | | |   Date:   Mon Jun 3 19:12:57 2019 -0500
+| | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | |       Merge pull request #17 from DiegoVillasenorVilla/master
+| | | | | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | | commit 70c85bb262af2d7af379cda8244f4b64d8cef8e1
+| |/ / / / / / / / / / / / / / / /  Author: DiegoVillasenorVilla <50335824+DiegoVillasenorVilla@users.noreply.github.com>
+| | | | | | | | | | | | | | | | |   Date:   Mon Jun 3 19:02:21 2019 -0500
+| | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | | |   commit 311f4ef08774abf9b36647a774832962ae413bf1
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 8fbc559 227ffa3
+| | |_|_|_|_|_|_|_|_|/ / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | | | |   Date:   Mon Jun 3 19:09:09 2019 -0500
+| | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | |       Merge pull request #1 from Kqaren30/master
+| | | | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | | commit 227ffa3ed5f697da4cf02a7a0b883c3e2d2f8834
+| |/ / / / / / / / / / / / / / /  Author: Karen Guadalupe Robles Salazar <48693148+Kqaren30@users.noreply.github.com>
+| | | | | | | | | | | | | | | |   Date:   Mon Jun 3 18:52:46 2019 -0500
+| | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | | |   commit 8fbc559ee02d4272c441c529f6ba40ef6ab60699
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: ccff503 63fe3e7
+| | |/ / / / / / / / / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | | |   Date:   Mon Jun 3 19:08:58 2019 -0500
+| | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | |       Merge pull request #2 from TDBigMike47/master
+| | | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | | commit 63fe3e749a6ad48e164d3b9cf5dbc67e0c7a6c05
+| |/ / / / / / / / / / / / / /  Author: TDBigMike47 <43075910+TDBigMike47@users.noreply.github.com>
+| | | | | | | | | | | | | | |   Date:   Mon Jun 3 18:54:33 2019 -0500
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | |   
+* | | | | | | | | | | | | | |   commit ccff5030709bab23ef6ef57ea8eb8f7d0b28e019
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: f991d82 26f6a01
+| | |_|_|_|_|_|/ / / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | | |   Date:   Mon Jun 3 19:08:35 2019 -0500
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Merge pull request #3 from JulianAlderete/master
+| | | | | | | | | | | | | | |       
+| | | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit 26f6a01066ec0759f7a248c054b1841c5c8f01b5
+| |/ / / / / / / / / / / / /  Author: JulianAlderete <50850628+JulianAlderete@users.noreply.github.com>
+| | | | | | | | | | | | | |   Date:   Mon Jun 3 18:52:26 2019 -0500
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | |   
+* | | | | | | | | | | | | |   commit f991d828edabd48ad415a668ff7e5edcc57dc9f3
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: ec5b150 5592318
+| | |_|_|/ / / / / / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | | |   Date:   Mon Jun 3 19:08:26 2019 -0500
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge pull request #4 from yeraniarm/master
+| | | | | | | | | | | | | |       
+| | | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit 55923183db7dec110bbe645f904afe877630a12c
+| |/ / / / / / / / / / / /  Author: Yerania Rivera <yerania.riveram@gmail.com>
+| | | | | | | | | | | | |   Date:   Mon Jun 3 18:53:00 2019 -0500
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | |   
+* | | | | | | | | | | | |   commit ec5b1506ee26c020bdc667bd9a8603808b6e619a
+|\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 90475d9 e8abd74
+| | |_|_|_|_|_|/ / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | | |   Date:   Mon Jun 3 19:08:04 2019 -0500
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Merge pull request #5 from JonathanSolisCeballos/master
+| | | | | | | | | | | | |       
+| | | | | | | | | | | | |       Jonathan Solis Ceballos
+| | | | | | | | | | | | | 
+| * | | | | | | | | | | | commit e8abd748c2bf4ffe403acc7da4d82a3d771aaac8
+| | | | | | | | | | | | | Author: IMAC Jonathan Solis c <JonathanSolisc_22@hotmail.com>
+| | | | | | | | | | | | | Date:   Mon Jun 3 18:26:31 2019 -0500
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     Agregado las imagenes de mi texto
+| | | | | | | | | | | | | 
+| * | | | | | | | | | | | commit 89615585b2cf98e35b2e82c3959c8425d00c6a04
+| | | | | | | | | | | | | Author: IMAC Jonathan Solis c <JonathanSolisc_22@hotmail.com>
+| | | | | | | | | | | | | Date:   Wed May 29 19:25:41 2019 -0500
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     Agregado mi archivo
+| | | | | | | | | | | | | 
+| * | | | | | | | | | | | commit 63fbfb0c9a3bf18ccc04b9a6497995d32c78507b
+| | | | | | | | | | | | | Author: IMAC Jonathan Solis c <JonathanSolisc_22@hotmail.com>
+| | | | | | | | | | | | | Date:   Mon May 27 19:47:16 2019 -0500
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     deleted files
+| | | | | | | | | | | | | 
+| * | | | | | | | | | | | commit 70baf35f2abab3a383e9546c07a45e7dc0c187a3
+| |/ / / / / / / / / / /  Author: IMAC Jonathan Solis c <JonathanSolisc_22@hotmail.com>
+| | | | | | | | | | | |   Date:   Wed May 22 19:25:19 2019 -0500
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Agregado archivo de Jonathan Solis Ceballos
+| | | | | | | | | | | |   
+* | | | | | | | | | | |   commit 90475d9d71b5d76581bb3a19ccb70afd01fbbf4f
+|\ \ \ \ \ \ \ \ \ \ \ \  Merge: 2d85a34 c3b2ca5
+| | |_|_|_|_|/ / / / / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | | |   Date:   Mon Jun 3 19:07:49 2019 -0500
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Merge pull request #6 from Anisbeflo/master
+| | | | | | | | | | | |       
+| | | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | | 
+| * | | | | | | | | | | commit c3b2ca575e9597939229326c0fc598cadef8fc53
+| |/ / / / / / / / / /  Author: Anisbeflo <50933273+Anisbeflo@users.noreply.github.com>
+| | | | | | | | | | |   Date:   Mon Jun 3 18:52:29 2019 -0500
+| | | | | | | | | | |   
+| | | | | | | | | | |       Add files via upload
+| | | | | | | | | | |   
+* | | | | | | | | | |   commit 2d85a34377554fc04fffa40cc12a58c132ce8b17
+|\ \ \ \ \ \ \ \ \ \ \  Merge: e7bade9 1a50725
+| | |_|_|_|_|_|_|_|/ /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | | |   Date:   Mon Jun 3 19:06:49 2019 -0500
+| | | | | | | | | | |   
+| | | | | | | | | | |       Merge pull request #7 from juanpunch123/master
+| | | | | | | | | | |       
+| | | | | | | | | | |       Add files via upload
+| | | | | | | | | | | 
+| * | | | | | | | | | commit 1a50725bfeb2481894bc49579d534ace9541fe68
+| |/ / / / / / / / /  Author: juanpunch123 <43076513+juanpunch123@users.noreply.github.com>
+| | | | | | | | | |   Date:   Mon Jun 3 18:52:39 2019 -0500
+| | | | | | | | | |   
+| | | | | | | | | |       Add files via upload
+| | | | | | | | | |   
+* | | | | | | | | |   commit e7bade989fee48075112e90c6a2486bbd0a21397
+|\ \ \ \ \ \ \ \ \ \  Merge: 4e36ec6 98c2142
+| | |_|_|_|_|_|/ / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | | |   Date:   Mon Jun 3 19:06:35 2019 -0500
+| | | | | | | | | |   
+| | | | | | | | | |       Merge pull request #8 from MarianaGFT/master
+| | | | | | | | | |       
+| | | | | | | | | |       Add files via upload
+| | | | | | | | | | 
+| * | | | | | | | | commit 98c2142883e3c4ae88551bcea14103aaec308009
+| |/ / / / / / / /  Author: MarianaGFT <48689127+MarianaGFT@users.noreply.github.com>
+| | | | | | | | |   Date:   Mon Jun 3 18:53:30 2019 -0500
+| | | | | | | | |   
+| | | | | | | | |       Add files via upload
+| | | | | | | | |   
+* | | | | | | | |   commit 4e36ec6a2f1d5705acba4aeb1fb82c73c2ab909c
+|\ \ \ \ \ \ \ \ \  Merge: 4bf1d4b 5c0edcb
+| | |_|_|_|_|/ / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | | |   Date:   Mon Jun 3 19:06:22 2019 -0500
+| | | | | | | | |   
+| | | | | | | | |       Merge pull request #9 from OmarRoBra/master
+| | | | | | | | |       
+| | | | | | | | |       Add files via upload
+| | | | | | | | | 
+| * | | | | | | | commit 5c0edcb707d751ea4a5d61743b089626756ac10a
+| |/ / / / / / /  Author: OmarRoBra <50344283+OmarRoBra@users.noreply.github.com>
+| | | | | | | |   Date:   Mon Jun 3 18:55:32 2019 -0500
+| | | | | | | |   
+| | | | | | | |       Add files via upload
+| | | | | | | |   
+* | | | | | | |   commit 4bf1d4b0271ca797e7b24c2c8421dddfe6ecfecf
+|\ \ \ \ \ \ \ \  Merge: 363d9f5 379f0a3
+| | |_|_|_|_|_|/  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | | |   Date:   Mon Jun 3 19:06:06 2019 -0500
+| | | | | | | |   
+| | | | | | | |       Merge pull request #10 from JulianRodriguez29/master
+| | | | | | | |       
+| | | | | | | |       Add files via upload
+| | | | | | | | 
+| * | | | | | | commit 379f0a3218eff848383344bc019eff118f01e7b0
+| |/ / / / / /  Author: JulianRodriguez29 <50123134+JulianRodriguez29@users.noreply.github.com>
+| | | | | | |   Date:   Mon Jun 3 18:53:05 2019 -0500
+| | | | | | |   
+| | | | | | |       Add files via upload
+| | | | | | |   
+* | | | | | |   commit 363d9f5987c5703177b402d2eb3edf2cd22fbaac
+|\ \ \ \ \ \ \  Merge: 8bf0d71 93b6c9b
+| | |_|_|/ / /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | | |   Date:   Mon Jun 3 19:05:54 2019 -0500
+| | | | | | |   
+| | | | | | |       Merge pull request #11 from CthulhuDeveloper/master
+| | | | | | |       
+| | | | | | |       Add files via upload
+| | | | | | | 
+| * | | | | | commit 93b6c9b55882b1d402f377cf81cb5385667eb1be
+| |/ / / / /  Author: CthulhuDeveloper <37712610+CthulhuDeveloper@users.noreply.github.com>
+| | | | | |   Date:   Mon Jun 3 18:55:25 2019 -0500
+| | | | | |   
+| | | | | |       Add files via upload
+| | | | | |   
+* | | | | |   commit 8bf0d71b2384852528ea444393f6fd33cd64bd21
+|\ \ \ \ \ \  Merge: 9772fc3 b0a8725
+| | |_|_|/ /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | | |   Date:   Mon Jun 3 19:05:40 2019 -0500
+| | | | | |   
+| | | | | |       Merge pull request #12 from Cesar-Javier-Ramirez-Manzo/master
+| | | | | |       
+| | | | | |       Add files via upload
+| | | | | | 
+| * | | | | commit b0a8725e80d7ef33b0daee20be236576acc9974a
+| |/ / / /  Author: Cesar-Javier-Ramirez-Manzo <50338995+Cesar-Javier-Ramirez-Manzo@users.noreply.github.com>
+| | | | |   Date:   Mon Jun 3 18:56:55 2019 -0500
+| | | | |   
+| | | | |       Add files via upload
+| | | | |   
+* | | | |   commit 9772fc38a70fe561eb29d5e77a24c88c09ecd476
+|\ \ \ \ \  Merge: 6de22df 10d675e
+| | |_|_|/  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| | |   Date:   Mon Jun 3 19:05:05 2019 -0500
+| | | | |   
+| | | | |       Merge pull request #13 from jpalencia77/master
+| | | | |       
+| | | | |       Add files via upload
+| | | | | 
+| * | | | commit 10d675eba348b7c4fab54feb7784f0ceb6500da7
+| |/ / /  Author: jpalencia77 <50339058+jpalencia77@users.noreply.github.com>
+| | | |   Date:   Mon Jun 3 18:55:12 2019 -0500
+| | | |   
+| | | |       Add files via upload
+| | | |   
+* | | |   commit 6de22df52021aa860c844bcc4be09621d8288604
+|\ \ \ \  Merge: 3e35b1d 16a7ec7
+| | |/ /  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/| |   Date:   Mon Jun 3 19:04:45 2019 -0500
+| | | |   
+| | | |       Merge pull request #14 from joseLuisMtzE/master
+| | | |       
+| | | |       JLME
+| | | | 
+| * | | commit 16a7ec7619d5d67f1b0791d848a159fd024ee735
+| | | | Author: joseLuisMtzE <50123034+joseLuisMtzE@users.noreply.github.com>
+| | | | Date:   Mon Jun 3 18:57:47 2019 -0500
+| | | | 
+| | | |     Add files via upload
+| | | | 
+| * | | commit 4e542bf4c29e4ecd4e33cd444bd7a6ed863b5308
+| |/ /  Author: joseLuisMtzE <50123034+joseLuisMtzE@users.noreply.github.com>
+| | |   Date:   Mon Jun 3 18:54:28 2019 -0500
+| | |   
+| | |       Add files via upload
+| | |   
+* | |   commit 3e35b1d4c2d5e7a122ca7e71c5e976fde34f58b7
+|\ \ \  Merge: b66178e 438a2f1
+| | |/  Author: JRG Pulido <jrgpulido@gmail.com>
+| |/|   Date:   Mon Jun 3 19:04:31 2019 -0500
+| | |   
+| | |       Merge pull request #15 from ErickLlerenas/master
+| | |       
+| | |       Listo
+| | | 
+| * | commit 438a2f1da33654b791d2dea741b0a5886cc754e0
+| |/  Author: Erick Llerenas <39783945+ErickLlerenas@users.noreply.github.com>
+| |   Date:   Mon Jun 3 18:59:08 2019 -0500
+| |   
+| |       Listo
+| |       
+| |       Yaxd
+| |   
+* |   commit b66178e78b03b25e390218b707621472328a1499
+|\ \  Merge: 40aa42f 7e203d1
+| |/  Author: JRG Pulido <jrgpulido@gmail.com>
+|/|   Date:   Mon Jun 3 19:04:19 2019 -0500
+| |   
+| |       Merge pull request #16 from eddyroman12/master
+| |       
+| |       listo
+| | 
+| * commit 7e203d12bd5d9d3a1de3358d8c3e77ad4dd87fd5
+| | Author: eddyroman12 <50850640+eddyroman12@users.noreply.github.com>
+| | Date:   Mon Jun 3 18:57:47 2019 -0500
+| | 
+| |     Add files via upload
+| | 
+| * commit 5ba1618a929bd36aa7b86f1c68fda663eb65ec80
+|/  Author: eddyroman12 <50850640+eddyroman12@users.noreply.github.com>
+|   Date:   Mon Jun 3 18:54:18 2019 -0500
+|   
+|       Add files via upload
+| 
+* commit 40aa42f0eedd2c4087155d4003a5e5843b6483bf
+| Author: JRG Pulido <jrgpulido@gmail.com>
+| Date:   Thu May 30 17:39:58 2019 +0000
+| 
+|     Delete gpjr0.txt
+| 
+* commit dac46781154bb7dd89f1da12254b2c6b8cd0c56c
+| Author: nojrgpulido <sgradillo@gmail.com>
+| Date:   Wed May 29 19:50:45 2019 -0500
+| 
+|     Update repo
+| 
+* commit 0a5183a5537bc127b7915bb9d662448c1ee3eada
+| Author: JRG Pulido <jrgpulido@gmail.com>
+| Date:   Thu May 30 00:46:27 2019 +0000
+| 
+|     Delete gpjr0.txt
+| 
+* commit 64fccc0664bf5ecc9b8ecf45bbd5bd6036b0b19e
+| Author: nojrgpulido <sgradillo@gmail.com>
+| Date:   Wed May 29 19:31:32 2019 -0500
+| 
+|     Update gpjr
+| 
+* commit 183885b13af71631189599791c37257da4ea147a
+| Author: JRG Pulido <jrgpulido@gmail.com>
+| Date:   Thu May 30 00:22:50 2019 +0000
+| 
+|     Delete gpjr copy.txt
+| 
+* commit 75e0604938d3a8254eccc5fbcd22cad4a452572a
+| Author: JRG Pulido <jrgpulido@gmail.com>
+| Date:   Thu May 30 00:22:41 2019 +0000
+| 
+|     Delete gitOn.txt
+|   
+*   commit 382357e2df915b2dc9df50fb713f860bd8be5f84
+|\  Merge: 5dfa4e5 0da4873
+| | Author: nojrgpulido <sgradillo@gmail.com>
+| | Date:   Wed May 29 18:38:43 2019 -0500
+| | 
+| |     Update repo
+| | 
+| * commit 0da48737bc3b0c7f556c35dbd8af08c93421f1cc
+| | Author: nojrgpulido <sgradillo@gmail.com>
+| | Date:   Wed May 29 14:16:26 2019 -0500
+| | 
+| |     Update js19is2x
+| | 
+| * commit 3857c208a2f6c73aa98f409e635e05296d0e7df4
+| | Author: JRG Pulido <jrgpulido@gmail.com>
+| | Date:   Thu May 23 18:13:08 2019 -0500
+| | 
+| |     Update gpjr.txt
+| | 
+| * commit 11832a1e75fb3155de05e613667a03a50e770a21
+| | Author: JRG Pulido <jrgpulido@gmail.com>
+| | Date:   Wed May 22 19:57:24 2019 -0500
+| | 
+| |     Update gpjr.txt
+| | 
+| * commit 85a8242045314c877a04b219cc526351f7229ae3
+|   Author: jrgpulido <jrgpulido@gmail.com>
+|   Date:   Wed May 22 19:53:35 2019 -0500
+|   
+|       Update <js2rm>
+| 
+* commit 5dfa4e578ef9e71c66aaedaf69c71f2d7c9904f3
+  Author: nojrgpulido <sgradillo@gmail.com>
+  Date:   Wed May 29 18:36:36 2019 -0500
+  
+      Update repo
