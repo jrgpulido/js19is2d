@@ -1,0 +1,2 @@
+//generar tripletas
+

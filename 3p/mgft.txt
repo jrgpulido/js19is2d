@@ -1,0 +1,62 @@
+Mariana Guadalupe Fajardo Toscano
+
+hobbies:
+1 Películas
+2 Música
+3 Leer
+4 Meditación
+
+materias:
+1 Progrmación
+2 Matemáticas
+3 Sistemas digitales
+4 Sistemas operativos
+
+estudiante:
+1 Atención
+2 Disciplina
+3 Respeto
+4 Organización
+
+profesor:
+1 Bueno transmitiendo conocimientos
+2 Amable
+3 Respetuoso
+4 Empático
+
+valores:
+1 Responsabilidad
+2 Atención
+3 Honestidad
+4 Gratitud
+
+Gratitud:
+Uno de los valores más difíciles de alcanzar pero es
+uno de los más importantes.
+La gratitud permite aceptar nuevos conocimientos que 
+vienen de personas o experiencias y nos ayudan a ser
+mejores cada día. 
+Es una atitud que permite reconocer los beneficios 
+que recibimos.
+Se centra en las cosas positivas de la vida, de las
+personas y de las situaciones o experiencias.
+Significa ser consciente de lo que tenemos, somos,
+vivimos o aprendemos y valorarlo. Es reflexionar y
+reconocer la fortuna de cada quien.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
