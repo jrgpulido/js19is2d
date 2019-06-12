@@ -1,0 +1,55 @@
+(function(x){
+return function (y){
+    return x*y;
+
+};
+})(2)(3);
+6
+
+(function hola(){
+    console.log('hola js mundo');
+    return 0
+})()
+
+(function(x){
+    return function(y){
+        return function(z){
+        return x+y+z;
+        };
+    };
+})(8)(8)(8);
+
+var abc =(function () {
+    return{
+        hello:function hello (){
+            return 'hello world';
+        }
+    };
+}());
+abc.hello();
+
+function foo(){
+console.log('hola x');
+};
+
+var bar = function(){
+    console.log('called OmAR');
+};
+
+(function(){
+    console.log('OmAR');
+})();
+
+(function(){
+    console.log('OmAR');
+}());
+
+var module={
+    methodOne: function (){
+        console.log('performiong  a task');
+
+    },
+    methodTwo: function(){
+        console.log('performing a task 2');
+    }
+};
