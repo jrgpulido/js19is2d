@@ -1,0 +1,30 @@
+<!DOCTYPE html><html>
+
+<body>
+    <div id="my-svg"></div>
+</body>
+
+<script
+src="https://cdn.jsdelivr.net/npm/raphael@2.4.7/raphael.min.js">
+</script>
+
+<script>
+var paper=Raphael (document.getElementById('my-svg'),600,400);
+var rect=paper.rect(0,0,600,400);
+rect.attr('fill', '#E0E0F8');
+var circle=paper.circle(300,200,120);
+circle.attr('fill', '#A9D0F5');
+circle.attr('stroke-width',1);
+var triangle=paper.path('M100,50 L100,200 L500,200 L100,50');
+triangle.attr('fill','#E2A9F3')
+triangle.attr('stroke-width',1);
+let triangle2=paper.path('M'+'200'+','+'150 L50,350 L50,35 L200,150');
+triangle2.attr('fill','#AFC');
+
+var circle2=paper.circle(450,120,60);
+circle2.attr('fill','#ABDA13')
+
+var triangle3=paper.path('M100,30 L0,100 L300,100 L100,50');
+triangle3.attr('fill','#FEBAC1')
+</script>
+</html>
